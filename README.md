@@ -21,7 +21,6 @@ The DAO (Data Access Object) layer is responsible for interacting with the datab
 ### Entity
 
 
-
 There are four entities present:
 - College Entity
 - Student Entity

@@ -19,7 +19,9 @@ The Service layer encapsulates the business logic of the application. For the sa
 The DAO (Data Access Object) layer is responsible for interacting with the database. In this project, an entity named `Student` is created in the DAO layer. This entity is mapped to a database table and serves the purpose of modeling student data within the system.
 
 ### Entity
----
+
+
+
 There are four entities present:
 - College Entity
 - Student Entity

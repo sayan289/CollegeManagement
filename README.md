@@ -26,7 +26,7 @@ There are four entities present:
 - Teacher Entity
 - Department Entity
 
-- --
+
 
 ## Technology Stack
 
